@@ -99,7 +99,7 @@ p[style*="color: red"] {
 }
 
 p:not([style*="color: red"]) {
-  color: #333;
+  color: #1bcb56;
 }
 
 /* Separador */
