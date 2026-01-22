@@ -86,7 +86,7 @@ function AlumnoPorId() {
       </header>
 
       <h2>Buscar alumno por ID</h2>
-
+      <h1>HE CAMBIADO ALGO</h1>
       <input
         type="number"
         placeholder="Introduce ID del alumno"
